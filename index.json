@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "kendall" },
   "basics": {
     "name": "Krashna Chaurasia",
     "label": "Software/Web developer",
@@ -23,7 +24,7 @@
     "position": "Senior Cloud Developer",
     "url": "http://bauhaus.info",
     "startDate": "2021-08-01",
-    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
+    "summary": "Rebuilding exiting Shop using industries cutting edge technologies",
     "highlights": [
       "Developer of Innovation hub, Working on cloud native Architecture "
     ]
@@ -40,7 +41,7 @@
     ]
   },
   {
-    "name": "Harman GmbH",
+    "company": "Harman GmbH",
     "position": "Devops Engineer",
     "url": "https://harman.com",
     "startDate": "2018-06-01",
@@ -51,7 +52,7 @@
     ]
   },
   {
-    "name": "Harman India",
+    "company": "Harman India",
     "position": "Product Engineer",
     "url": "https://harman.com",
     "startDate": "2016-02-01",
