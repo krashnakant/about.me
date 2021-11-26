@@ -2,9 +2,9 @@
   "basics": {
     "name": "Krashna Chaurasia",
     "label": "Software/Web developer",
-    "image": "https://github.com/krashnakant/about.me/blob/master/images/03FE72E5-AA6E-418A-B44B-F8A9D06359C1.jpeg",
+    "image": "https://github.com/krashnakant/about.me/blob/master/images/IMG_9052.jpg",
     "email": "krashna.chaurasia@yahoo.com",
-    "url": "http://krashna.sh",
+    "url": "https://krashna.sh",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "location": {
       "city": "Mannheim",
@@ -19,10 +19,41 @@
     ]
   },
   "work": [{
-    "name": "Bahag AG",
+    "name": "Bahag AG - Bauhaus",
     "position": "Senior Cloud Developer",
     "url": "http://bauhaus.info",
     "startDate": "2021-08-01",
+    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
+    "highlights": [
+      "Developer of Innovation hub, Working on cloud native Architecture "
+    ]
+  }, {
+    "name": "HSE - Home Shopping Europe",
+    "position": "Web Developer",
+    "url": "https://hse.de",
+    "startDate": "2019-08-01",
+    "endDate": "2021-07-01",
+    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
+    "highlights": [
+      "Developer of Innovation hub, Working on cloud native Architecture "
+    ]
+  },{
+    "name": "Harman GmbH",
+    "position": "Devops Engineer",
+    "url": "https://harman.com",
+    "startDate": "2018-06-01",
+    "endDate": "2019-08-01",
+    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
+    "highlights": [
+      "Developer of Innovation hub, Working on cloud native Architecture "
+    ]
+  },
+  {
+    "name": "Harman India",
+    "position": "Product Engineer",
+    "url": "https://harman.com",
+    "startDate": "2016-02-01",
+    "endDate" : "2018-06-01",
     "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
     "highlights": [
       "Developer of Innovation hub, Working on cloud native Architecture "
@@ -31,7 +62,7 @@
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
-    "url": "http://organization.com/",
+    "url": "https://organization.com/",
     "startDate": "2020-01-01",
     "endDate": "2020-01-01",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -56,19 +87,51 @@
     "date": "2020-11-01",
     "awarder": "Company",
     "summary": "Programmer of the Year 2020"
-  }],
-  "skills": [{
+    }],
+    "skills": [{
     "name": "Web Development",
     "level": "Master",
     "keywords": [
       "HTML",
       "CSS",
-      "Javascript"
+      "Javascript",
+      "NodeJS",
+      "ReactJs"
     ]
-  }],
+  },{
+    "name": "API developement",
+    "level": "Master",
+    "keywords": [
+      "Java",
+      "Kotlin",
+      "Spring Boot",
+      "Postgres",
+      "Unit Testing/ TDD",
+      "Integration Testing"
+    ]
+  },{
+    "name": "Automation software infrastructure CI/CD",
+    "level": "Master",
+    "keywords": [
+      "Github Actions",
+      "Gitlab",
+      "Github"
+    ]
+  },{
+    "name": "Cloud Native Development",
+    "level": "Master",
+    "keywords": [
+      "AWS - Amazon Web Services",
+      "GCP - Google Cloud Platform"
+    ]
+  }
+],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
+  },{
+    "language": "German",
+    "fluency": "Beginner"
   }],
   "interests": [{
     "name": "Electronics",
