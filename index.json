@@ -19,7 +19,7 @@
     ]
   },
   "work": [{
-    "name": "Bahag AG - Bauhaus",
+    "company": "Bahag AG - Bauhaus",
     "position": "Senior Cloud Developer",
     "url": "http://bauhaus.info",
     "startDate": "2021-08-01",
@@ -27,8 +27,9 @@
     "highlights": [
       "Developer of Innovation hub, Working on cloud native Architecture "
     ]
-  }, {
-    "name": "HSE - Home Shopping Europe",
+  }, 
+  {
+    "company": "HSE - Home Shopping Europe",
     "position": "Web Developer",
     "url": "https://hse.de",
     "startDate": "2019-08-01",
@@ -37,7 +38,8 @@
     "highlights": [
       "Developer of Innovation hub, Working on cloud native Architecture "
     ]
-  },{
+  },
+  {
     "name": "Harman GmbH",
     "position": "Devops Engineer",
     "url": "https://harman.com",
@@ -58,7 +60,8 @@
     "highlights": [
       "Developer of Innovation hub, Working on cloud native Architecture "
     ]
-  }],
+  }
+],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
