@@ -93,40 +93,41 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "NodeJS",
-        "ReactJs"
+        "HTML ",
+        "CSS ",
+        "Javascript ",
+        "NodeJS ",
+        "ReactJs "
       ]
     },
     {
       "name": "API developement",
       "level": "Master",
       "keywords": [
-        "Java",
-        "Kotlin",
-        "Spring Boot",
-        "Postgres",
-        "Unit Testing/ TDD",
-        "Integration Testing"
+        "Java ",
+        "Kotlin ",
+        "Spring Boot ",
+        "Postgres ",
+        "Firebase ",
+        "Unit Testing/ TDD ",
+        "Integration Testing "
       ]
     },
     {
       "name": "Automation software infrastructure CI/CD",
       "level": "Master",
       "keywords": [
-        "Github Actions",
-        "Gitlab",
-        "Github"
+        "Github Actions ",
+        "Gitlab ",
+        "Github "
       ]
     },
     {
       "name": "Cloud Native Development",
       "level": "Master",
       "keywords": [
-        "AWS - Amazon Web Services",
-        "GCP - Google Cloud Platform"
+        "AWS - Amazon Web Services ",
+        "GCP - Google Cloud Platform "
       ]
     }
   ],
@@ -151,19 +152,19 @@
     {
       "name": "Languages",
       "keywords": [
-        "Kotlin",
-        "Java",
-        "python",
-        "typescripts",
-        "ReactJs",
-        "Angular",
-        "Spring Boot"
+        "Kotlin ",
+        "Java ",
+        "python ",
+        "typescripts ",
+        "ReactJs ",
+        "Angular ",
+        "Spring Boot "
       ]
     },
     {
       "name": "Latest Innovation",
       "keywords": [
-        "Machine learning",
+        "Machine learning ",
         "opensource technologies"
       ]
     }
