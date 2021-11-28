@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/krashnakant/about.me/master/images/IMG_9052.jpg",
     "email": "krashna.chaurasia@yahoo.com",
     "url": "https://krashna.sh",
-    "summary": "Dedicated and versatile professional offering around 8 years of experience in the IT sector, I specialize in the architecture and creation of continuously deployed scalable Full Stack Solutions on the AWS/GCP Cloud Platform. Strong focus on a Containerized Microservice REST and GRAPHQL Apis, React JS Progressive Web Apps and Native Mobile Apps. DB Specialties include PostgreSQL, DynamoDB, and Redis",
+    "summary": "Dedicated and versatile professional offering around 8 years of experience in the IT sector, I specialize in the architecture and creation of continuously deployed scalable Full Stack Solutions on the AWS/GCP Cloud Platform. Strong focus on a Containerized Microservice REST and GRAPHQL Apis, React JS Progressive Web Apps and Native Mobile Apps. DB Specialties include PostgreSQL, DynamoDB, and Redis.",
     "location": {
       "city": "Mannheim",
       "countryCode": "DE",
@@ -25,7 +25,7 @@
       "position": "Senior Cloud Developer",
       "website": "http://bauhaus.info",
       "startDate": "2021-08-01",
-      "summary": "Developer of Innovation hub Building a cloud-native application from the greenfield projects in a google cloud platform(GCP). Rebuilding existing e-com Shop using industries cutting edge technologies",
+      "summary": "Developer of Innovation hub Building a cloud-native application from the greenfield projects in a google cloud platform(GCP). Rebuilding existing e-com Shop using industries cutting edge technologies.",
       "highlights": [
         "Developing the best E-commerce software with user-friendly experience",
         "Creating end to end cloud-native production-grade solution",
@@ -39,7 +39,7 @@
       "website": "https://hse.de",
       "startDate": "2019-09-01",
       "endDate": "2021-07-01",
-      "summary": "e-commerce domain ",
+      "summary": "e-commerce domain.",
       "highlights": [
         "Developing full-stack application across various platforms using latest industry-adopted technologies and framework like Java, Kotlin, Spring boot, ReactJs, MicroServices, AWS ",
         "Working closely with others team including project and project owner, developers and designer, scrum masters and followed best practices",
@@ -52,7 +52,7 @@
       "website": "https://harman.com",
       "startDate": "2018-06-01",
       "endDate": "2019-08-01",
-      "summary": "Setup a continue Integration and deployment pipeline for Samsung Bixby (AI assistance) for 5 europian language",
+      "summary": "Setup a continue Integration and deployment pipeline for Samsung Bixby (AI assistance) for 5 europian language.",
       "highlights": [
         "Setting up infrastructure using Infrastructure as a Code (IAAC) in the AWS and GCP platform using tools like Packer, Terraform Ansible",
         "wrote multiple node JS/Angular applications for DevOps task automation",
@@ -66,7 +66,7 @@
       "website": "https://harman.com",
       "startDate": "2016-02-01",
       "endDate": "2018-06-01",
-      "summary": "Client-oriented project in various domain like Healthcare, Telecom",
+      "summary": "Client-oriented project in various domain like Healthcare, Telecom.",
       "highlights": [
         "Responsible for API design and development of REST services for the enterprise product in the business",
         "Analysis of the requirment documents to understand the coding logic to be performed and implemented",
