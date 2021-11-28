@@ -35,10 +35,10 @@ Please see  `index.json` for comple example
       "summary": "Lorem ipsum dolor sit amet, consecte...",
       "location": {
         "address": "22111 Makiling",
-        "postalCode": "4027",
-        "city": "Calamba",
-        "countryCode": "PH",
-        "region": "Philippines"
+        "postalCode": "81827",
+        "city": "Munich",
+        "countryCode": "DE",
+        "region": "Germany"
       }
     }
   }

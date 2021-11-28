@@ -1,173 +1,171 @@
 {
-  "meta": { "theme": "kendall" },
   "basics": {
     "name": "Krashna Chaurasia",
-    "label": "Software/Web developer",
-    "image": "https://github.com/krashnakant/about.me/blob/master/images/IMG_9052.jpg",
+    "label": "Senior software/w eb developer",
+    "image": "https://raw.githubusercontent.com/krashnakant/about.me/master/images/IMG_9052.jpg",
     "email": "krashna.chaurasia@yahoo.com",
     "url": "https://krashna.sh",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "summary": "Dedicated and versatile professional offering around 8 years of experience in the IT sector, I specialize in the architecture and creation of continuously deployed scalable Full Stack Solutions on the AWS/GCP Cloud Platform. Strong focus on a Containerized Microservice REST and GRAPHQL Apis, React JS Progressive Web Apps and Native Mobile Apps. DB Specialties include PostgreSQL, DynamoDB, and Redis",
     "location": {
       "city": "Mannheim",
       "countryCode": "DE",
       "region": "Germany"
     },
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "krashna-kant-chaurasia",
-      "url": "https://www.linkedin.com/in/krashna-kant-chaurasia/"
-    }
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "krashna-kant-chaurasia",
+        "url": "https://www.linkedin.com/in/krashna-kant-chaurasia/"
+      }
     ]
   },
-  "work": [{
-    "company": "Bahag AG - Bauhaus",
-    "position": "Senior Cloud Developer",
-    "url": "http://bauhaus.info",
-    "startDate": "2021-08-01",
-    "summary": "Rebuilding exiting Shop using industries cutting edge technologies",
-    "highlights": [
-      "Developer of Innovation hub, Working on cloud native Architecture "
-    ]
-  }, 
-  {
-    "company": "HSE - Home Shopping Europe",
-    "position": "Web Developer",
-    "url": "https://hse.de",
-    "startDate": "2019-08-01",
-    "endDate": "2021-07-01",
-    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
-    "highlights": [
-      "Developer of Innovation hub, Working on cloud native Architecture "
-    ]
-  },
-  {
-    "company": "Harman GmbH",
-    "position": "Devops Engineer",
-    "url": "https://harman.com",
-    "startDate": "2018-06-01",
-    "endDate": "2019-08-01",
-    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
-    "highlights": [
-      "Developer of Innovation hub, Working on cloud native Architecture "
-    ]
-  },
-  {
-    "company": "Harman India",
-    "position": "Product Engineer",
-    "url": "https://harman.com",
-    "startDate": "2016-02-01",
-    "endDate" : "2018-06-01",
-    "summary": "Developer of Innovation hub Building an cloud native application from the greenfield projects in google cloud platform(GCP).",
-    "highlights": [
-      "Developer of Innovation hub, Working on cloud native Architecture "
-    ]
-  }
-],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://www.rgpv.ac.in/",
-    "area": "Electronics & telecommunication",
-    "studyType": "Bachelor",
-    "startDate": "2012-08-01",
-    "endDate": "2008-08-01",
-    "score": "7.0",
-    "courses": [
-      "Software developer & Electronics telecommunication"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-    }],
-    "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "NodeJS",
-      "ReactJs"
-    ]
-  },{
-    "name": "API developement",
-    "level": "Master",
-    "keywords": [
-      "Java",
-      "Kotlin",
-      "Spring Boot",
-      "Postgres",
-      "Unit Testing/ TDD",
-      "Integration Testing"
-    ]
-  },{
-    "name": "Automation software infrastructure CI/CD",
-    "level": "Master",
-    "keywords": [
-      "Github Actions",
-      "Gitlab",
-      "Github"
-    ]
-  },{
-    "name": "Cloud Native Development",
-    "level": "Master",
-    "keywords": [
-      "AWS - Amazon Web Services",
-      "GCP - Google Cloud Platform"
-    ]
-  }
-],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  },{
-    "language": "German",
-    "fluency": "Beginner"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+  "work": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
+      "company": "Bahag AG - Bauhaus",
+      "position": "Senior Cloud Developer",
+      "url": "http://bauhaus.info",
+      "startDate": "2021-08-01",
+      "summary": "Developer of Innovation hub Building a cloud-native application from the greenfield projects in a google cloud platform(GCP). Rebuilding existing e-com Shop using industries cutting edge technologies",
+      "highlights": [
+        "Developing the best E-commerce software with user-friendly experience",
+        "Creating end to end cloud-native production-grade solution",
+        "Having Agile mindset and building cost-effective solution with minimum Latency",
+        "Creating a microservice application using Language and framework like Java, Kotlin, Python, Spring Boot, AWS, GCP, SQL, NoSQL, Serverless, CI/CD"
+      ]
+    },
+    {
+      "company": "HSE - Home Shopping Europe",
+      "position": "Web Developer",
+      "url": "https://hse.de",
+      "startDate": "2019-09-01",
+      "endDate": "2021-07-01",
+      "summary": "e-commerce domain ",
+      "highlights": [
+        "Developing full-stack application across various platforms using latest industry-adopted technologies and framework like Java, Kotlin, Spring boot, ReactJs, MicroServices, AWS ",
+        "Working closely with others team including project and project owner, developers and designer, scrum masters and followed best practices",
+        "Working within an agile team and helped prioritize and scope feature requests to ensure that the bigger impact features were worked on first"
+      ]
+    },
+    {
+      "company": "Harman GmbH",
+      "position": "Devops Engineer",
+      "url": "https://harman.com",
+      "startDate": "2018-06-01",
+      "endDate": "2019-08-01",
+      "summary": "Setup a continue Integration and deployment pipeline for Samsung Bixby (AI assistance) for 5 europian language",
+      "highlights": [
+        "Setting up infrastructure using Infrastructure as a Code (IAAC) in the AWS and GCP platform using tools like Packer, Terraform Ansible",
+        "wrote multiple node JS/Angular applications for DevOps task automation",
+        "Automated deployment (Red Black) using Spinnaker and Jenkins Logging and Monitoring using FluentD, Datadog, Grafana and Google Stackdriver Ticketing using Slack, Jira",
+        "Deployed the project on the production environment and Administer and support 24×7 production Application"
+      ]
+    },
+    {
+      "company": "Harman India",
+      "position": "Product Engineer",
+      "url": "https://harman.com",
+      "startDate": "2016-02-01",
+      "endDate": "2018-06-01",
+      "summary": "Client-oriented project in various domain like Healthcare, Telecom",
+      "highlights": [
+        "Responsible for API design and development of REST services for the enterprise product in the business",
+        "Analysis of the requirment documents to understand the coding logic to be performed and implemented",
+        "Involved in technical and function discussion analyzed, design, coding, and testing above-defined module"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://www.rgpv.ac.in/",
+      "area": "Electronics & telecommunication",
+      "studyType": "Bachelor of engineering",
+      "startDate": "2012-08-01",
+      "endDate": "2008-08-01",
+      "score": "7.0",
+      "courses": [
+        "Computer & Electronics telecommunication"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
       "keywords": [
-        "PHP", "NodeJS", "Javascript"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
-      ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+        "HTML",
+        "CSS",
+        "Javascript",
+        "NodeJS",
+        "ReactJs"
+      ]
+    },
+    {
+      "name": "API developement",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "Postgres",
+        "Unit Testing/ TDD",
+        "Integration Testing"
+      ]
+    },
+    {
+      "name": "Automation software infrastructure CI/CD",
+      "level": "Master",
+      "keywords": [
+        "Github Actions",
+        "Gitlab",
+        "Github"
+      ]
+    },
+    {
+      "name": "Cloud Native Development",
+      "level": "Master",
+      "keywords": [
+        "AWS - Amazon Web Services",
+        "GCP - Google Cloud Platform"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Electronics",
+      "keywords": [
+        "Electronic gadgets",
+        "IOT"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "python",
+        "typescripts",
+        "ReactJs",
+        "Angular",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Latest Innovation",
+      "keywords": [
+        "Machine learning",
+        "opensource technologies"
+      ]
     }
   ]
 }
