@@ -23,7 +23,7 @@
     {
       "company": "Bahag AG - Bauhaus",
       "position": "Senior Cloud Developer",
-      "url": "http://bauhaus.info",
+      "website": "http://bauhaus.info",
       "startDate": "2021-08-01",
       "summary": "Developer of Innovation hub Building a cloud-native application from the greenfield projects in a google cloud platform(GCP). Rebuilding existing e-com Shop using industries cutting edge technologies",
       "highlights": [
@@ -36,7 +36,7 @@
     {
       "company": "HSE - Home Shopping Europe",
       "position": "Web Developer",
-      "url": "https://hse.de",
+      "website": "https://hse.de",
       "startDate": "2019-09-01",
       "endDate": "2021-07-01",
       "summary": "e-commerce domain ",
@@ -49,7 +49,7 @@
     {
       "company": "Harman GmbH",
       "position": "Devops Engineer",
-      "url": "https://harman.com",
+      "website": "https://harman.com",
       "startDate": "2018-06-01",
       "endDate": "2019-08-01",
       "summary": "Setup a continue Integration and deployment pipeline for Samsung Bixby (AI assistance) for 5 europian language",
@@ -63,7 +63,7 @@
     {
       "company": "Harman India",
       "position": "Product Engineer",
-      "url": "https://harman.com",
+      "website": "https://harman.com",
       "startDate": "2016-02-01",
       "endDate": "2018-06-01",
       "summary": "Client-oriented project in various domain like Healthcare, Telecom",
@@ -77,12 +77,12 @@
   "education": [
     {
       "institution": "University",
-      "url": "https://www.rgpv.ac.in/",
+      "website": "https://www.rgpv.ac.in/",
       "area": "Electronics & telecommunication",
       "studyType": "Bachelor of engineering",
       "startDate": "2012-08-01",
       "endDate": "2008-08-01",
-      "score": "7.0",
+      "gpa": "7.0",
       "courses": [
         "Computer & Electronics telecommunication"
       ]
