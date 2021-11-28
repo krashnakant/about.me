@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "kendall" },
   "basics": {
     "name": "Krashna Chaurasia",
     "label": "Senior software/w eb developer",
@@ -170,6 +171,7 @@
       ]
     }
   ],
+  "references": [{}],
   "projects": [
     {
       "name": "Bauhaus e-commerce",
