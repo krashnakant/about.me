@@ -25,6 +25,7 @@
       "position": "Senior Cloud Developer",
       "website": "http://bauhaus.info",
       "startDate": "2021-08-01",
+      "endDate": "NA",
       "summary": "Developer of Innovation hub Building a cloud-native application from the greenfield projects in a google cloud platform(GCP). Rebuilding existing e-com Shop using industries cutting edge technologies.",
       "highlights": [
         "Developing the best E-commerce software with user-friendly experience",
@@ -167,6 +168,57 @@
         "Machine learning ",
         "opensource technologies"
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bauhaus e-commerce",
+      "description": "BAUHAUS Online-Shop - Ihr Fachcentrum, wenn's gut werden muss. Jetzt online bestellen oder Reservieren & Abholen in Ihrem Fachcentrum.",
+      "highlights": [
+        "Developing the best E-commerce software with user-friendly experience",
+        "Creating end to end cloud-native production-grade solution",
+        "Having Agile mindset and building cost-effective solution with minimum Latency",
+        "Creating a microservice application using Language and framework like Java, Kotlin, Python, Spring Boot, AWS, GCP, SQL, NoSQL, Serverless, CI/CD"
+      ],
+      "keywords": [
+        "GCP",
+        "Python",
+        "Kotlin",
+        "ReactJs",
+        "Java",
+        "Github ",
+        "Spring Boot"
+      ],
+      "startDate": "2020-08-01",
+      "url": "https://bauhaus.info",
+      "roles": [
+        "Senior Developer",
+        "Software Architect"
+      ],
+      "type": "web application"
+    },
+    {
+      "name": "HSE - Home Shopping Europe",
+      "description": "Ob Fashion, Beauty, Schmuck oder Home & Living ✓ Entdecken Sie die inspirierende Shoppingwelt von HSE ❤️",
+      "highlights": [
+        "Developing full-stack application across various platforms using latest industry-adopted technologies and framework like Java, Kotlin, Spring boot, ReactJs, MicroServices, AWS ",
+      ],
+      "keywords": [
+        "AWS",
+        "Kotlin ",
+        "ReactJs",
+        "Gitlab ",
+        "typescripts ",
+        "NodeJS ",
+        "Spring Boot "
+      ],
+      "startDate": "2019-09-01",
+      "endDate": "2021-07-01",
+      "roles": [
+        "Full Stack Developer"
+      ],
+      "type": "web application",
+      "url": "https://hse.com"
     }
   ]
 }
